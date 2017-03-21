@@ -12,7 +12,7 @@ Github instant search implementation using reactjs , type in the search box and 
 
 
 ## Usage
-1. Clone the repo using `git clone https://github.com/revaret/githubUserSearch.git
+1. Clone the repo using `git clone https://github.com/revaret/githubUserSearch.git`
 2. Navigate into the root directory and do `npm install`
 3. To run the project do `npm run serve`
 4. Now goto http://localhost:8080 to play with the project 
